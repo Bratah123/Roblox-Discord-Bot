@@ -6,6 +6,6 @@ In order for this bot to work make sure to fill out all blank variables in Confi
 
 
 # <h1> Commands
-![profile](https://media.discordapp.net/attachments/746519006961336370/746596625123901510/16a4b44c7fd70f5366e0d4e8857055e4.png)
+![profile](https://media.discordapp.net/attachments/746519006961336370/746596664755880046/a1db7ff003f81df7f97d8b588902f3f3.png)
 
 ![searchname](https://media.discordapp.net/attachments/746519006961336370/746596625123901510/16a4b44c7fd70f5366e0d4e8857055e4.png)
