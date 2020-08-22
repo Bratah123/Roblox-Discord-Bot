@@ -10,14 +10,14 @@ t0 = time.time()  # Getting the time the program starts so we can time how long 
 client = commands.Bot(command_prefix=Config.PREFIX)
 
 commands = {
-    "!help": Commands.help_command,
+    f"{Config.PREFIX}help": Commands.help_command,
 
-    "!profile": Commands.roblox_profile,
-    "!roblox": Commands.roblox_profile,
+    f"{Config.PREFIX}profile": Commands.roblox_profile,
+    f"{Config.PREFIX}roblox": Commands.roblox_profile,
 
-    "!profileid" : Commands.profile_id,
+    f"{Config.PREFIX}profileid" : Commands.profile_id,
 
-    "!searchname": Commands.search_username
+    f"{Config.PREFIX}searchname": Commands.search_username
 }
 
 
