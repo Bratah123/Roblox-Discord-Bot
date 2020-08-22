@@ -49,7 +49,7 @@ def roblox_profile(ctx, args):
     e.set_thumbnail(url=pfp)
     e.add_field(name="Status", value=status, inline=False)
     e.add_field(name="In-Game", value=presence_type, inline=True)
-    e.add_field(name="Game", value=game_name, inline=True)
+    e.add_field(name="Game", value=game_name, inline=False)
 
     return e
 
@@ -79,7 +79,7 @@ def profile_id(ctx, args):
     e.set_thumbnail(url=pfp)
     e.add_field(name="Status", value=status, inline=False)
     e.add_field(name="In-Game", value=presence_type, inline=True)
-    e.add_field(name="Game", value=game_name, inline=True)
+    e.add_field(name="Game", value=game_name, inline=False)
 
     return e
 
