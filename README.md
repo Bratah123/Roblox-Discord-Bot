@@ -3,6 +3,7 @@ A discord bot that can get info from Roblox, written by Brandon Nguyen
 Any questions on set up if you ever use it can be directed to discord to Not Brandon#4444
 
 In order for this bot to work make sure to fill out all blank variables in Config.py (ROBLOX_COOKIE and TOKEN)
+And use PyCharm as your IDE
 
 
 # <h1> Commands
